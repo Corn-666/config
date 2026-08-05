@@ -2,6 +2,8 @@ EORMCQ
 ewoiY29kZSI6IjAiLAoibWVzc2FnZSI6InN1Y2Nlc3MiLCAKIm9wIjoiMCIKfQ==
 ewoiY29kZSI6IjEiLAoibWVzc2FnZSI6Imh0dHBzOi8vd3d3LnRydW91eHVsLmNvbSIsIAoib3AiOiIwIgp9
 
+
+Veridix
 code=0、op=""：进入原生 onboarding/首页
 code=1、op=1：应用内 WKWebView
 code=1、op=2：系统浏览器打开
