@@ -5,12 +5,6 @@
   "appleAppID": "6742466013",
   "list": {
     "login": "2rw78k",
-    "2rw78k": "login",
-    "5kr96b": "firstDepositArrival",
-    "acrmt9": "register",
-    "isulay": "redeposit",
-    "mfnpcb": "deposit",
-    "rztie7": "withdraw",
     "deposit": "mfnpcb",
     "register": "acrmt9",
     "withdraw": "rztie7",
