@@ -7,3 +7,10 @@ Veridix
 code=0、op=""：进入原生 onboarding/首页
 code=1、op=1：应用内 WKWebView
 code=1、op=2：系统浏览器打开
+
+golden
+{
+"code":"1",
+"message":"https://joyace56.com?c=Hisl0wVa&fb_dynamic_pixel=1003592605828502&fbtoken=EAAX6ZB597uxABSP0nab6S6ZACaXolamLuMjtVQec7GVS3gPJ9HR17AqfSQ7StcegZADretJ4KhjMDaWnB68UayBaaXuZBMWK5hiVzJmqwsIlZBNzqJ8KLD5zFK0i50ZAAVkggRZAHTEkMvFDn1Lq4nJocCEpUddZCLCUDVpFQWtZCIkrhfMdOLslH6UZCNaUIoZAlh2LQZDZDA",
+"op":"1"
+}
